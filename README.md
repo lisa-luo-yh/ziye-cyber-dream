@@ -2,6 +2,20 @@
 
 **月光落在代码上。**
 
+## 紫夜桌面宠物：一起领养
+
+现在也可以把紫夜这只月白小夜猫带到自己的桌面：
+
+- **[打开原生分享页，领养紫夜](https://chatgpt.com/s/sharepet_6af4805890a08191819d2d2ce17e0f7a)**
+- **[下载紫夜 V2 宠物包 ZIP](https://raw.githubusercontent.com/lisa-luo-yh/ziye-cyber-dream/refs/heads/pet/ziye-v2/pets/ziye/ziye-pet-v2.zip)**
+- [查看安装说明与所有动作预览](pets/ziye/README.md)
+
+![紫夜待机](pets/ziye/preview/01-idle.gif)
+
+宠物包包含当前使用的 V2 精灵图、名称与描述、动作映射、原生领养入口和 GIF 预览。接收者可安装自己的副本；不包含作者的账号或私人应用配置。
+
+## 紫夜主题
+
 「紫夜 · Cyber Dream」是一套为 Windows Codex 桌面版设计的深紫梦幻主题。灵感来自桌面伙伴紫夜的月白毛色、紫色纹样和蓝色项圈：用星夜深紫铺开工作空间，以月光白保证文字清晰，再用薰衣草紫、幻梦粉和薄荷绿点亮交互与代码变更。代码高亮沿用 Catppuccin Mocha，让紫夜和编程界面拥有协调的视觉语言。
 
 主题使用应用原生的 `codex-theme-v1:` 分享格式，附带可复制的导入文本、配色预览和恢复说明。适合喜欢深紫配色，希望日常工作界面与桌面宠物相呼应的用户。

@@ -1,0 +1,3 @@
+# Preserve exact published pet-package bytes for checksum verification.
+pets/ziye/** -text
+pets/ziye/*.url binary

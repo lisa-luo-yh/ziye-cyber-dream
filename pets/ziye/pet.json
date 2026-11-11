@@ -1,0 +1,17 @@
+{
+  "name": "紫夜",
+  "description": "奶油白的小夜猫，戴着浅紫蓝月牙项圈。待机时轻轻歪头、左右轻摆并眨眼，跳到最高点时闭眼微笑。",
+  "format": "ChatGPT Pets sprite sheet",
+  "spriteVersionNumber": 2,
+  "spriteSheetFile": "spritesheet.png",
+  "width": 1536,
+  "height": 2288,
+  "columns": 8,
+  "rows": 11,
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "requiredFrameCount": 73,
+  "shareUrl": "https://chatgpt.com/s/sharepet_6af4805890a08191819d2d2ce17e0f7a",
+  "spriteSheetSha256": "8575aec25578838b15bc1975d0a02336e19c75511472e290551b713e51eb517f",
+  "configurationNote": "参考清单，非应用全局配置。接收者通过原生分享或安装入口添加。"
+}

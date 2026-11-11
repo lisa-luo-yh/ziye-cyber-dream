@@ -1,0 +1,30 @@
+{
+  "valid": true,
+  "file_size_bytes": 2989592,
+  "mime_type": "image/png",
+  "width": 1536,
+  "height": 2288,
+  "sprite_version": 2,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "errors": [],
+  "checkedDate": "2026-11-11",
+  "validator": "Pets validate_pet_spritesheet",
+  "fileSha256": "8575aec25578838b15bc1975d0a02336e19c75511472e290551b713e51eb517f",
+  "decodedPixelSha256": "52b7bd45f26d43138ed2b977777b168a3f38b638d347edd3749e114a972a1271",
+  "existingFinalAssetPixelsMatch": true,
+  "scope": "原生结构校验与已有最终素材像素核对，不表示重新评审全部动作语义。"
+}

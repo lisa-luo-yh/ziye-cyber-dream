@@ -1,0 +1,256 @@
+{
+  "name": "紫夜",
+  "spriteVersionNumber": 2,
+  "atlasFile": "spritesheet.png",
+  "atlasSize": [
+    1536,
+    2288
+  ],
+  "cellSize": [
+    192,
+    208
+  ],
+  "sha256": "8575aec25578838b15bc1975d0a02336e19c75511472e290551b713e51eb517f",
+  "rowIndexBase": 0,
+  "timingNote": "previewFrameMs 仅对应随包 GIF 预览，应用实际时序由客户端控制。",
+  "rows": [
+    {
+      "row": 0,
+      "state": "idle",
+      "name": "普通待机",
+      "frameCount": 6,
+      "frameDescriptions": [
+        "坐稳",
+        "左倾闭眼",
+        "睁眼",
+        "经过中间",
+        "右倾闭眼",
+        "回正"
+      ],
+      "previewFrameMs": [
+        280,
+        110,
+        110,
+        140,
+        140,
+        320
+      ]
+    },
+    {
+      "row": 1,
+      "state": "running-right",
+      "name": "向右跑",
+      "frameCount": 8,
+      "frameDescriptions": [
+        "支撑",
+        "前爪伸出",
+        "腾空伸展",
+        "收腿落地",
+        "再支撑",
+        "换侧前伸",
+        "交替支撑",
+        "再腾空"
+      ],
+      "previewFrameMs": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    {
+      "row": 2,
+      "state": "running-left",
+      "name": "向左跑",
+      "frameCount": 8,
+      "frameDescriptions": [
+        "支撑",
+        "前爪伸出",
+        "腾空伸展",
+        "收腿落地",
+        "再支撑",
+        "换侧前伸",
+        "再腾空",
+        "收腿落地"
+      ],
+      "previewFrameMs": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    {
+      "row": 3,
+      "state": "waving",
+      "name": "问候摆尾",
+      "frameCount": 4,
+      "frameDescriptions": [
+        "尾巴收拢",
+        "抬尾",
+        "向外摆尾",
+        "缓缓收尾"
+      ],
+      "previewFrameMs": [
+        140,
+        140,
+        140,
+        280
+      ]
+    },
+    {
+      "row": 4,
+      "state": "jumping",
+      "name": "互动跳跃",
+      "frameCount": 5,
+      "frameDescriptions": [
+        "蹲下蓄力",
+        "起跳半闭",
+        "腾空闭眼",
+        "下落半开",
+        "落地睁眼"
+      ],
+      "previewFrameMs": [
+        140,
+        140,
+        140,
+        140,
+        280
+      ]
+    },
+    {
+      "row": 5,
+      "state": "failed",
+      "name": "受阻",
+      "frameCount": 8,
+      "frameDescriptions": [
+        "坐稳",
+        "困惑张嘴",
+        "开始歪头",
+        "歪头到位",
+        "停留",
+        "开始回正",
+        "头已回正",
+        "恢复坐姿"
+      ],
+      "previewFrameMs": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        240
+      ]
+    },
+    {
+      "row": 6,
+      "state": "waiting",
+      "name": "等待输入",
+      "frameCount": 6,
+      "frameDescriptions": [
+        "坐稳直视",
+        "前倾抬爪",
+        "单爪抬起",
+        "停住等候",
+        "放下前爪",
+        "回到坐姿"
+      ],
+      "previewFrameMs": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        260
+      ]
+    },
+    {
+      "row": 7,
+      "state": "running",
+      "name": "工作中",
+      "frameCount": 6,
+      "frameDescriptions": [
+        "画面左爪抬起",
+        "左爪短停",
+        "左爪落点",
+        "画面右爪抬起",
+        "右爪短停",
+        "右爪落点"
+      ],
+      "previewFrameMs": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    {
+      "row": 8,
+      "state": "review",
+      "name": "完成待看",
+      "frameCount": 6,
+      "frameDescriptions": [
+        "坐稳",
+        "开始低头",
+        "向下看",
+        "开始抬头",
+        "抬头微笑",
+        "停留微笑"
+      ],
+      "previewFrameMs": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        280
+      ]
+    },
+    {
+      "row": 9,
+      "state": "look-a",
+      "name": "视线前半圈",
+      "frameCount": 8,
+      "frameDescriptions": [
+        "0°",
+        "22.5°",
+        "45°",
+        "67.5°",
+        "90°",
+        "112.5°",
+        "135°",
+        "157.5°"
+      ],
+      "previewFrameMs": []
+    },
+    {
+      "row": 10,
+      "state": "look-b",
+      "name": "视线后半圈",
+      "frameCount": 8,
+      "frameDescriptions": [
+        "180°",
+        "202.5°",
+        "225°",
+        "247.5°",
+        "270°",
+        "292.5°",
+        "315°",
+        "337.5°"
+      ],
+      "previewFrameMs": []
+    }
+  ]
+}
